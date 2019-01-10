@@ -1,0 +1,6 @@
+[submodule "vendor/graphviz/remote"]
+	path = vendor/graphviz/remote
+	url = https://gitlab.com/graphviz/graphviz.git
+[submodule "vendor/sdl/remote"]
+	path = vendor/sdl/remote
+	url = https://github.com/SDL-mirror/SDL
